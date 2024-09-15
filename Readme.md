@@ -22,21 +22,27 @@ Notifications: Receive real-time updates for new followers, comments, likes, and
 Responsive Design: Enjoy a seamless experience across all devices with our fully responsive interface.
 Inviting Landing Page: An engaging and intuitive landing page that captures the essence and excitement of exploration.
 
-Demo
-very soon...
 
+Backend: Technologies used:
 
-Technologies Used
-Front-End
-React.js: For building interactive and dynamic user interfaces.
-Redux: State management for predictable and maintainable application state.
-Styled Components / SASS: For modular and reusable styling.
-WebRTC: Facilitating real-time video and audio communication.
-Socket.io: Enabling real-time, bi-directional communication between clients and servers.
-Back-End
 Node.js: Server-side JavaScript runtime environment.
 Express.js: Fast and minimalist web framework for Node.js.
 MongoDB: NoSQL database for flexible and scalable data storage.
 Mongoose: Elegant MongoDB object modeling for Node.js.
 JWT (JSON Web Tokens): Secure authentication mechanism.
 Cloudinary/AWS S3: For efficient and scalable media storage and delivery.
+
+
+
+Front-End
+Demo
+very soon...
+Technologies To be Used
+
+React.js: For building interactive and dynamic user interfaces.
+Redux: State management for predictable and maintainable application state.
+Styled Components / SASS: For modular and reusable styling.
+WebRTC: Facilitating real-time video and audio communication.
+Socket.io: Enabling real-time, bi-directional communication between clients and servers.
+Back-End
+
